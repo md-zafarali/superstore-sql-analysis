@@ -1,7 +1,7 @@
 # Super Store Sales Analysis (SQL)
 
 SQL analysis of the Superstore Sales dataset (Kaggle): 9,800 order lines, 4,922 orders, 793 customers, January 2015 to December 2018.
-The same data is visualised in my Power BI project, [Super Store Sales Dashboard](ADD-YOUR-GITHUB-LINK-HERE).
+The same data is visualised in my Power BI project, [Super Store Sales Dashboard](https://github.com/md-zafarali/superstore-powerbi-dashboard).
 
 ## Business questions answered
 
